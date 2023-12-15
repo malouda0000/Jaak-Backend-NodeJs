@@ -1,0 +1,176 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>
+            Email Template
+        </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+    <body>
+        <div class="body-wrap">
+            <div class="container">
+   
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 body-main" style=" background: #ffffff; border-bottom: 15px solid #000; border-top: 15px solid #000;
+            margin-top: 30px; margin-bottom: 30px;padding: 40px 30px !important; position: relative;box-shadow: 0 1px 21px #808080;font-size: 10px">
+                                                                            
+                                                                             
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-4"> <img class="img" alt="Invoce Template" src="https://apptunix.s3.ap-south-1.amazonaws.com/Jaak/1634724274697_jaak.png/" style="width: 60px;"> </div>
+                        <div class="col-md-8 text-right">
+                            <h4 style="color: #F81D2D;"><strong style="color: #FBB03A">Cakeoobake</strong></h4>
+                            <p style="font-size: 14px;margin-bottom: 0;">${inputs.data.orderNumber}</p>
+                            <p style="font-size: 14px;margin-bottom: 0;">Merchant Name</p>
+                            <p style="font-size: 14px;margin-bottom: 0;">${inputs.data.storeId.restaurantName}</p>
+                        </div>
+                    </div> <br />
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <h2>Order Id</h2>
+                            <h5>${inputs.data.orderNumber}</h5>
+                        </div>
+                    </div> <br />
+                    <div>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <h5 style="color: #0000005e;">Date and Time of Order</h5>
+                                        <h6>${inputs.data.createdAt}</h6>
+                                    </th>
+                                    <th>
+                                        <h5 class="del" style=" background: #fcb03a52;
+                                                     padding: 10px;
+                                                     border-radius: 11px;
+                                                     text-align: center;">Delivery</h5>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="col-md-6" style="border-right: 1px solid #ddd;">
+                                        <h5>Payment Method</h5>
+                                        
+                                    </td>
+                                    <td class="col-md-6" style="text-align: right;">
+                                             <h6>${inputs.data.paymentMode}</h6>
+                                    </td>
+                                </tr>
+                                 <tr>
+                                    <td class="col-md-6" style="border-right: 1px solid #ddd;">
+                                        <h5 style="color: #0000005e;">Customer Detail</h5>
+                                        <!-- <h6>Today</h6> -->
+                                    </td>
+                                    <td class="col-md-6" style="text-align: right;">
+                                     <h5 style="color: #0000005e;">${inputs.data.userId.firstName}</h5>
+                                        <h6 style="color: #6dc96d;">${inputs.data.userId.email}</h6>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="col-md-6" style="border-right: 1px solid #ddd;">
+                                        <h5 style="color: #0000005e;">Rider Detail</h5>
+                                        <!-- <h6>Today</h6> -->
+                                    </td>
+                                    <td class="col-md-6" style="text-align: right;">
+                                     <h5 style="color: #0000005e;">${inputs.data.driverId.firstName}</h5>
+                                        <h6 style="color: #6dc96d;">${inputs.data.driverId.email}</h6>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <% for (var i =1; i <=inputs.data.items.length ;  i++ ) { %>
+                                    <td class="col-md-6" style="border-right: 1px solid #ddd;">
+                                        <h5 style="color: #000;font-weight: bold;">Item details</h5>
+                                        <p style="font-size: 14px; color:#0000005e ;"> <%= inputs.data.items[i].itemId.productName %></p>
+                                        <p style="font-size: 14px; color:#0000005e ;"><%= inputs.data.items[i].itemId.name %></p>
+                                        <p style="font-size: 14px; color:#0000005e ;"><%= inputs.data.items[i].quantity %> </p>
+                                        <p style="font-size: 14px; color:#0000005e ;"><%= inputs.data.items[0].totalAmount %></p>
+                                        
+                                    </td>
+                                    <% } %>
+                                    <td class="col-md-6" style="text-align: right;">
+                                     <h5 style="color: #0000005e;"> /</h5>
+                                        <p style="font-size: 14px;">rice - rice</p>
+                                        <p style="font-size: 14px;"> rice cake</p>
+                                        <p style="font-size: 14px;">Quantity 4</p>
+                                        <p style="font-size: 14px;">AED 560</p>
+                                    </td>
+                                </tr>
+                               <tr>
+                                    <td class="col-md-3">
+                                        <h5 style="color: #0000005e;">Delivery Address</h5>
+                                   </td>
+                                    <td class="col-md-9" style="text-align: right;">
+                                     <h5 >${inputs.data.address.address}</h5>
+                                    </td>
+                                    
+                                </tr>
+                                <tr>
+                                    <td class="col-md-3">
+                                        <h5 style="color: #0000005e;">Delivery Notes</h5>
+                                   </td>
+                                    <td class="col-md-9" style="text-align: right;">
+                                     <h5 >${inputs.data.note}</h5>
+                                    </td>
+                                    
+                                </tr>
+                                 <tr>
+                                    <td class="col-md-3">
+                                        <h5 style="color: #0000005e;">Store Name</h5>
+                                       
+                                   </td>
+                                    <td class="col-md-9" style="text-align: right;">
+                                     <h5 >${inputs.data.storeId.restaurantName}</h5>
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="col-md-3">
+                                        <h5 style="color: #0000005e;">Rating</h5>
+                                       
+                                   </td>
+                                    <td class="col-md-9" style="text-align: right;">
+                                     <h5 ><i class="fa fa-star" aria-hidden="true"></i></h5>
+                                    </td>   
+                                </tr>
+                                
+                                <tr>
+                                    <td>
+                                        <p style="font-size: 14px;"> <strong>Basket cost:</strong> </p>
+                                        <p style="font-size: 14px;"> <strong>service charge: </strong> </p>
+                                        <p style="font-size: 14px;"> <strong>Delivery charge: </strong> </p>
+                                        <p style="font-size: 14px;"> <strong>Total cost: </strong> </p>
+                                    </td>
+                                    <td style="text-align: right;">
+                                        <p style="font-size: 14px;"> <strong><i class="fas fa-rupee-sign" area-hidden="true"></i> 500 </strong> </p>
+                                        <p style="font-size: 14px;"> <strong><i class="fas fa-rupee-sign" area-hidden="true"></i> ${inputs.data.serviceFee}</strong> </p>
+                                        <p style="font-size: 14px;"> <strong><i class="fas fa-rupee-sign" area-hidden="true"></i> ${inputs.data.deliveryFee}</strong> </p>
+                                        <p style="font-size: 14px;"> <strong><i class="fas fa-rupee-sign" area-hidden="true"></i> ${inputs.data.totalAmount}</strong> </p>
+                                    </td>
+                                </tr>
+                                <tr style="color: #F81D2D;">
+                                    <td >
+                                        <h4><strong style="color: #FBB03A">Estimated bill:</strong></h4>
+                                    </td>
+                                    <td class="text-right">
+                                        <h4><strong style="color: #FBB03A"><i class="fas fa-rupee-sign" area-hidden="true"></i>${inputs.data.totalAmount} </strong></h4>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </body>
+</html>

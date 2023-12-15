@@ -1,0 +1,135 @@
+No., Marchant Name , Booking Details, Booking Type , Customer Name ,Customer Phone No., OrderNo, Payment Mode, Driver Name, Driver Phone No, deliveryFee, serviceFee, totalDiscount, tax, totalTax, packingCharge, subTotalAmount, totalAmount,  
+16,Cafe 1989,19-Apr-2022,INSTANT,"MouzaAlmazrouei","+971-507202209",2321,"Cash",Aminur  Islam,+971-506481367,15,0,0,0,0,0,48,63
+32,Sweet And Sour,19-Apr-2022,INSTANT,"SHAMMAALMANSOORI","+971-509555486",2320,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,75,90
+31,Cafe 1989,19-Apr-2022,INSTANT,"MaithaAlmz","+971-505550218",2319,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,48,63
+6,Cafe 1989,19-Apr-2022,INSTANT,"MouzaAlmazrouei","+971-507202209",2318,"Cash",,,15,0,0,0,0,0,45,60
+26,Top Mahashi & More,19-Apr-2022,INSTANT,"maryamalmansoori","+971-506610310",2317,"Apple Pay",Aminur  Islam,+971-506481367,15,0,0,0,0,0,52,67
+25,Cafe 1989,19-Apr-2022,INSTANT,"shougalmansoori","+971-566994911",2316,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,75,90
+27,Rolling dough,19-Apr-2022,INSTANT,"AliNazir","+971-545198254",2315,"Cash",Foysal  molla,+971-508031961,8,0,0,0,0,0,38,46
+28,Top Mahashi & More,19-Apr-2022,INSTANT,"ArwaALMANSOORI","+971-501201015",2314,"Card",Aminur  Islam,+971-506481367,15,0,0,0,0,0,90,105
+53,Cafe 1989,19-Apr-2022,INSTANT,"Alyazialmansoori","+971-509307460",2313,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,47,62
+7,Cafe 1989,19-Apr-2022,INSTANT,"Alyazialmansoori","+971-509307460",2312,"Cash",,,15,0,0,0,0,0,47,62
+18,Cafe 1989,19-Apr-2022,INSTANT,"banutalmansoori","+971-506125826",2311,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,41,56
+44,Cafe 1989,19-Apr-2022,INSTANT,"salhaalmansouri","+971-561905583",2310,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,80,95
+8,Coffee Planet,19-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2309,"Cash",,,0,0,0,0.88,0,12,88,100.88
+4,Cafe 1989,19-Apr-2022,INSTANT,"AlyaziAlmandoori","+971-504454378",2308,"Cash",,,15,0,0,0,0,0,25,40
+45,Cafe 1989,18-Apr-2022,INSTANT,"SheikahAlmn","+971-508284082",2307,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,50,65
+30,Buffalo Pizza,18-Apr-2022,INSTANT,"mouzaAlmansoori","+971-566623839",2306,"Apple Pay",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,28,43
+33,Buffalo Pizza,18-Apr-2022,INSTANT,"3'anoyAlmansoori","+971-503385516",2305,"Apple Pay",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,112.5,127.5
+34,Rolling dough,18-Apr-2022,INSTANT,"najlaalmansoori","+971-508388071",2304,"Card",Foysal  molla,+971-508031961,8,0,0,0,0,0,81,89
+35,Sweet And Sour,18-Apr-2022,INSTANT,"AfraAlmansoori","+971-507876884",2303,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,75,90
+36,Rolling dough,18-Apr-2022,INSTANT,"MariamAlmansoorii","+971-504206156",2302,"Cash",Foysal  molla,+971-508031961,8,0,0,0,0,0,39,47
+37,Buffalo Pizza,18-Apr-2022,INSTANT,"KarelOp","+971-509638526",2301,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,35,50
+52,Buffalo Pizza,17-Apr-2022,INSTANT,"3'anoyAlmansoori","+971-503385516",2300,"Apple Pay",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,58,73
+40,Cafe 1989,17-Apr-2022,INSTANT,"SalmahAlmansoori","+971-563833282",2299,"Apple Pay",Aminur  Islam,+971-506481367,15,0,0,0,0,0,60,75
+47,Cafe 1989,17-Apr-2022,INSTANT,"SHAMMAALMANSOORI","+971-509555486",2298,"Apple Pay",Aminur  Islam,+971-506481367,15,0,0,0,0,0,25,40
+48,Cafe 1989,17-Apr-2022,INSTANT,"salemalmansouri","+971-569456788",2297,"Cash",Aminur  Islam,+971-506481367,15,0,0,0,0,0,72,87
+41,Buffalo Pizza,17-Apr-2022,INSTANT,"AfraAlmansoori","+971-507876884",2296,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,65,80
+42,Cafe 1989,17-Apr-2022,INSTANT,"banutalmansoori","+971-506125826",2295,"Cash",Aminur  Islam,+971-506481367,15,0,0,0,0,0,50,65
+43,Coffee Planet,17-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2294,"Cash",Bilal Zaman,+92-322469888,0,0,0,1.32,0,12,132,145.32
+59,Coffee Planet,17-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2293,"Cash",Bilal Zaman,+92-322469888,0,0,0,0.66,0,12,66,78.66
+58,Coffee Planet,17-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2292,"Cash",Bilal Zaman,+92-322469888,0,0,0,0.66,0,12,66,78.66
+1,Coffee Planet,17-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2291,"Cash",,,0,0,0,0.66,0,12,66,78.66
+60,Coffee Planet,17-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2290,"Cash",Bilal Zaman,+92-322469888,0,0,0,0.44,0,12,44,56.44
+61,Coffee Planet,17-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2289,"Cash",Bilal Zaman,+92-322469888,0,0,0,0.88,0,12,88,100.88
+2,Cafe 1989,16-Apr-2022,INSTANT,"ShaikhaAlfalahi","+971-505766519",2288,"Cash",,,15,0,0,0,0,0,168,183
+46,Cafe 1989,16-Apr-2022,INSTANT,"maryamalmansoori","+971-506610310",2287,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,56,71
+55,Buffalo Pizza,16-Apr-2022,INSTANT,"Mouzaalmansouri","+971-501212389",2286,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,53,68
+56,Cafe 1989,16-Apr-2022,INSTANT,"najlaalmansoori","+971-508388071",2285,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,47,62
+49,Buffalo Pizza,16-Apr-2022,INSTANT,"AteeqAl mansoori","+971-502111874",2284,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,28,43
+67,Top Mahashi & More,16-Apr-2022,INSTANT,"Zaheraal Mansoori","+971-501116459",2283,"Apple Pay",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,100,115
+50,Cafe 1989,16-Apr-2022,INSTANT,"SedraAlmansoori","+971-547254740",2282,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,32,47
+51,Cafe 1989,16-Apr-2022,INSTANT,"MaithaAlmz","+971-505550218",2281,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,75,90
+68,Buffalo Pizza,16-Apr-2022,INSTANT,"LAILAAlmansoori","-566933150",2280,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,69,84
+69,Cafe 1989,15-Apr-2022,INSTANT,"SheikahAlmn","+971-508284082",2279,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,97,112
+54,Cafe 1989,15-Apr-2022,INSTANT,"Mo0oniAlmaz","+971-503160080",2278,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,64,79
+63,Rolling dough,15-Apr-2022,INSTANT,"LAILAAlmansoori","-566933150",2277,"Cash",Aminur  Islam,+971-506481367,8,0,0,0,0,0,51,59
+64,Rolling dough,15-Apr-2022,INSTANT,"sultanalmansoori","+971-502210777",2276,"Cash",Alfaz Fazal,+971-563947987,8,0,0,0,0,0,91,99
+57,Cafe 1989,15-Apr-2022,INSTANT,"3'anoyAlmansoori","+971-503385516",2275,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,60,75
+76,Buffalo Pizza,15-Apr-2022,INSTANT,"3'anoyAlmansoori","+971-503385516",2274,"Apple Pay",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,55,70
+62,Buffalo Pizza,15-Apr-2022,INSTANT,"maryamalmarri","+971-565571041",2273,"Card",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,77,92
+71,Buffalo Pizza,15-Apr-2022,INSTANT,"reemAlmazeouei","+971-547703185",2272,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,25,40
+72,Cafe 1989,15-Apr-2022,INSTANT,"FSTBW","+971-561977706",2271,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,46,61
+3,Cafe 1989,14-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2270,"Cash",,,15,0,0,0,0,0,98,113
+65,Cafe 1989,14-Apr-2022,INSTANT,"SarahAlmazrouei","+971-502876758",2269,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,45,60
+74,Top Mahashi & More,14-Apr-2022,INSTANT,"Zaheraal Mansoori","+971-501116459",2268,"Apple Pay",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,50,65
+66,Cafe 1989,14-Apr-2022,INSTANT,"FSTBW","+971-561977706",2267,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,84,99
+75,Buffalo Pizza,14-Apr-2022,INSTANT,"reemAlmazeouei","+971-547703185",2266,"Apple Pay",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,50,65
+81,Cafe 1989,14-Apr-2022,INSTANT,"SHAMMAALMANSOORI","+971-509555486",2265,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,100,115
+82,Cafe 1989,14-Apr-2022,INSTANT,"FSTBW","+971-561977706",2264,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,146,161
+77,Cafe 1989,14-Apr-2022,INSTANT,"SedraAlmansoori","+971-547254740",2263,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,53,68
+70,Cafe 1989,14-Apr-2022,INSTANT,"Shammaalmansoori","+971-508882204",2262,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,113,128
+79,Rolling dough,14-Apr-2022,INSTANT,"AlyaziAlmansoori","+971-508535852",2261,"Card",Aminur  Islam,+971-506481367,8,0,0,0,0,0,37,45
+80,Sweet And Sour,14-Apr-2022,INSTANT,"abdullaSASS","+971-508380008",2260,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,230,245
+73,Top Mahashi & More,14-Apr-2022,INSTANT,"ArwaALMANSOORI","+971-501201015",2259,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,100,115
+15,Coffee Planet,13-Apr-2022,INSTANT,"AliHassan","+92-3224796804",2258,"Cash",,,0,0,0,1.32,0,12,132,145.32
+92,Coffee Planet,13-Apr-2022,INSTANT,"AliHassan","+92-3224796804",2257,"Cash",Bilal Zaman,+92-322469888,0,0,0,0.88,0,12,88,100.88
+89,Cafe 1989,13-Apr-2022,INSTANT,"alanoudsa","+971-505292201",2256,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,59,74
+85,Top Mahashi & More,13-Apr-2022,INSTANT,"MaithaalMansoori","+971-565616660",2255,"Card",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,60,75
+78,Cafe 1989,13-Apr-2022,INSTANT,"alanoudsa","+971-505292201",2254,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,91,106
+87,Cafe 1989,13-Apr-2022,INSTANT,"AliAlmansoori","+971-502533713",2253,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,43,58
+88,Cafe 1989,13-Apr-2022,INSTANT,"slimaAlmnsori","+971-544335312",2252,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,23,38
+83,Rolling dough,13-Apr-2022,INSTANT,"LAILAAlmansoori","-566933150",2251,"Cash",Aminur  Islam,+971-506481367,8,0,0,0,0,0,47,55
+9,Cafe 1989,12-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2250,"Cash",,,15,0,0,0,0,0,100,115
+10,Cafe 1989,12-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2249,"Cash",,,15,0,0,0,0,0,44,59
+11,Cafe 1989,12-Apr-2022,INSTANT,"syedzaheer","+971-549966076",2248,"Cash",,,15,0,0,0,0,0,152,167
+95,Cafe 1989,12-Apr-2022,INSTANT,"SheikahAlmn","+971-508284082",2247,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,68,83
+12,Cafe 1989,12-Apr-2022,INSTANT,"SheikahAlmn","+971-508284082",2246,"Cash",,,15,0,0,0,0,0,68,83
+13,Coffee Planet,12-Apr-2022,INSTANT,"FuadWaheed","+971-3228091881",2245,"Cash",,,0,0,0,0.88,0,12,88,100.88
+90,Cafe 1989,12-Apr-2022,INSTANT,"MouzaAlmazrouei","+971-507202209",2244,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,68,83
+94,Top Mahashi & More,12-Apr-2022,INSTANT,"Zaheraal Mansoori","+971-501116459",2243,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,100,115
+96,Top Mahashi & More,12-Apr-2022,INSTANT,"lateefahssss","-0556624478",2242,"Card",Aminur  Islam,+971-506481367,15,0,0,0,0,0,50,65
+99,Cafe 1989,12-Apr-2022,INSTANT,"NOORAAlmansoori","-566222215",2241,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,112,127
+98,Top Mahashi & More,11-Apr-2022,INSTANT,"maryamalmansoori","+971-506610310",2240,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,60,75
+5,Buffalo Pizza,11-Apr-2022,INSTANT,"عفراالمنصوري","+971-565623479",2239,"Card",,,15,0,0,0,0,0,28,43
+86,Buffalo Pizza,11-Apr-2022,INSTANT,"عفراالمنصوري","+971-565623479",2238,"Cash",Foysal  molla,+971-508031961,15,0,0,0,0,0,28,43
+103,Cafe 1989,11-Apr-2022,INSTANT,"Galaalmnsoori","+971-567704201",2237,"Cash",Foysal  molla,+971-508031961,15,0,0,0,0,0,28,43
+91,Buffalo Pizza,11-Apr-2022,INSTANT,"MahaD","+971-562682663",2236,"Card",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,122,137
+102,Cafe 1989,11-Apr-2022,INSTANT,"SalmaAlmansoori","+971-509881278",2235,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,47,62
+100,Buffalo Pizza,11-Apr-2022,INSTANT,"reemal mansoori","+971-506669262",2234,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,28,43
+101,Cafe 1989,11-Apr-2022,INSTANT,"عفراالمنصوري","+971-565623479",2233,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,43,58
+93,Cafe 1989,11-Apr-2022,INSTANT,"AteeqAl mansoori","+971-502111874",2232,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,60,75
+84,Cafe 1989,11-Apr-2022,INSTANT,"AlyaziAlmansoori","+971-508535852",2231,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,24,39
+108,Cafe 1989,11-Apr-2022,INSTANT,"SMAlmnsoori","+971-509070545",2230,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,51,66
+14,Cafe 1989,11-Apr-2022,INSTANT,"AteeqAl mansoori","+971-502111874",2229,"Cash",,,15,0,0,0,0,0,60,75
+111,Cafe 1989,10-Apr-2022,INSTANT,"MaithaalMansoori","+971-565616660",2228,"Card",Aminur  Islam,+971-506481367,15,0,0,0,0,0,56,71
+112,Cafe 1989,10-Apr-2022,INSTANT,"M","+971-543000072",2227,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,163,178
+105,Buffalo Pizza,10-Apr-2022,INSTANT,"AteeqAl mansoori","+971-502111874",2226,"Cash",Foysal  molla,+971-508031961,15,0,0,0,0,0,42,57
+106,Cafe 1989,10-Apr-2022,INSTANT,"fatimaAlmazroie","+971-501611878",2225,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,51,66
+107,Cafe 1989,10-Apr-2022,INSTANT,"BaketSaleh","+971-503151366",2224,"Cash",Alfaz Fazal,+971-563947987,15,0,0,0,0,0,26,41
+104,Rolling dough,09-Apr-2022,INSTANT,"ahadabduallah","+971-508332339",2223,"Cash",Aamir Khan,+971-506481538,8,0,0,0,0,0,67,75
+17,Rolling dough,09-Apr-2022,INSTANT,"ahadabduallah","+971-508332339",2222,"Cash",,,8,0,0,0,0,0,54,62
+97,Cafe 1989,09-Apr-2022,INSTANT,"meznahalmnsoori","+971-545168060",2221,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,25,40
+120,Rolling dough,09-Apr-2022,INSTANT,"salmasalem","+971-501083207",2220,"Cash",Aminur  Islam,+971-506481367,8,0,0,0,0,0,104,112
+113,Cafe 1989,09-Apr-2022,INSTANT,"hamamaalmn","+971-502740164",2218,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,45,60
+114,Rolling dough,09-Apr-2022,INSTANT,"SMK.","+971-544577168",2217,"Apple Pay",Aminur  Islam,+971-506481367,8,0,0,0,0,0,44,52
+115,Cafe 1989,09-Apr-2022,INSTANT,"reemAlmazeouei","+971-547703185",2216,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,38,53
+29,Cafe 1989,09-Apr-2022,INSTANT,"reemAlmazeouei","+971-547703185",2215,"Cash",,,15,0,0,0,0,0,38,53
+23,Cafe 1989,09-Apr-2022,INSTANT,"reemAlmazeouei","+971-547703185",2214,"Cash",,,15,0,0,0,0,0,45,60
+109,Cafe 1989,09-Apr-2022,INSTANT,"AlyaziAlmansoori","+971-508535852",2213,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,93,108
+110,Cafe 1989,09-Apr-2022,INSTANT,"M","+971-543000072",2212,"Cash",Aminur  Islam,+971-506481367,15,0,0,0,0,0,100,115
+119,Cafe 1989,09-Apr-2022,INSTANT,"SaraAlmansouri","+971-529998955",2211,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,63,78
+128,Cafe 1989,09-Apr-2022,INSTANT,"maryamalmansoori","+971-506610310",2210,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,85,100
+121,Cafe 1989,09-Apr-2022,INSTANT,"banutalmansoori","+971-506125826",2209,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,50,65
+116,Cafe 1989,09-Apr-2022,INSTANT,"MaithaalMansoori","+971-565616660",2208,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,55,70
+24,Cafe 1989,08-Apr-2022,INSTANT,"FuadWaheed","+971-3228091881",2207,"Cash",,,15,0,0,0,0,0,54,69
+117,Cafe 1989,08-Apr-2022,INSTANT,"MaithaalMansoori","+971-565616660",2206,"Card",Aamir Khan,+971-506481538,15,0,0,0,0,0,61,76
+118,Rolling dough,08-Apr-2022,INSTANT,"maryamalmansoori","+971-506610310",2205,"Cash",Aamir Khan,+971-506481538,8,0,0,0,0,0,54,62
+127,Cafe 1989,08-Apr-2022,INSTANT,"SheikahAlmn","+971-508284082",2204,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,50,65
+133,Buffalo Pizza,08-Apr-2022,INSTANT,"Fakheraalmansoori","+971-508889332",2203,"Card",Aminur  Islam,+971-506481367,15,0,0,0,0,0,72,87
+126,Cafe 1989,08-Apr-2022,INSTANT,"banutalmansoori","+971-506125826",2200,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,50,65
+130,Cafe 1989,07-Apr-2022,INSTANT,"bm","+971-563300176",2199,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,22,37
+132,Cafe 1989,07-Apr-2022,INSTANT,"FSTBW","+971-561977706",2198,"Apple Pay",Aamir Khan,+971-506481538,15,0,0,0,0,0,44,59
+134,Cafe 1989,07-Apr-2022,INSTANT,"banutalmansoori","+971-506125826",2197,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,86,101
+129,Cafe 1989,07-Apr-2022,INSTANT,"banutalmansoori","+971-506125826",2196,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,60,75
+122,Cafe 1989,06-Apr-2022,INSTANT,"banutalmansoori","+971-506125826",2195,"Cash",Aamir Khan,+971-506481538,8,0,0,0,0,0,50,58
+19,Buffalo Pizza,06-Apr-2022,INSTANT,"RoudaAlmazrouei","+971-544023943",2194,"Cash",,,15,0,0,0,0,0,62,77
+123,Cafe 1989,06-Apr-2022,INSTANT,"Fakheraalmansoori","+971-508889332",2193,"Cash",Aminur  Islam,+971-506481367,15,0,0,0,0,0,46,61
+20,Cafe 1989,06-Apr-2022,INSTANT,"MaithaalMansoori","+971-565616660",2185,"Cash",,,15,0,0,0,0,0,99,114
+21,Cafe 1989,06-Apr-2022,INSTANT,"MahaD","+971-562682663",2184,"Card",,,15,0,0,0,0,0,116,131
+124,Buffalo Pizza,05-Apr-2022,INSTANT,"LilWeird","+971-502078998",2183,"Cash",Aamir Khan,+971-506481538,15,0,0,0,0,0,99,114
+125,Top Mahashi & More,05-Apr-2022,INSTANT,"salmasalem","+971-501083207",2180,"Apple Pay",Jabad Hussain,+971-569703516,8,0,0,0,0,0,50,58
+22,Rolling dough,04-Apr-2022,INSTANT,"Mariamalmansoori","+971-503110554",2179,"Cash",,,8,0,0,0,0,0,152,160
+38,Top Mahashi & More,04-Apr-2022,INSTANT,"salmasalem","+971-501083207",2178,"Apple Pay",,,8,0,0,0,0,0,50,58
+39,Cafe 1989,02-Apr-2022,INSTANT,"abdullaSASS","+971-508380008",2174,"Apple Pay",,,8,0,0,0,0,0,50,58
+131,Cafe 1989,02-Apr-2022,INSTANT,"abdullaSASS","+971-508380008",2173,"Apple Pay",Alfaz Fazal,+971-563947987,8,0,0,0,0,0,75,83
